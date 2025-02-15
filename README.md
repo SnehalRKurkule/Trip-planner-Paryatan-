@@ -37,6 +37,17 @@ A travel website that allows users to explore destinations, view travel packages
 ---
 
 ### 📷 Screenshots 
+![image](https://github.com/user-attachments/assets/9efd4e63-85ac-4ec9-b28c-6e96dd31a8a7)
+![image](https://github.com/user-attachments/assets/aadbc93b-2f80-473f-a23b-83bf50b2d161)
+![image](https://github.com/user-attachments/assets/ddcc2a87-7c3f-4578-a695-a4b1b36c43d9)
+![image](https://github.com/user-attachments/assets/ed869443-f218-4037-be4b-8a09824cc455)
+![image](https://github.com/user-attachments/assets/06fafa2e-69dd-47e4-8d8a-b22a4876947c)
+![image](https://github.com/user-attachments/assets/8ab3cc07-a692-48f0-b350-870cf8bda6c4)
+
+
+
+
+
 
 
 
