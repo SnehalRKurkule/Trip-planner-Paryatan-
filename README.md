@@ -38,8 +38,5 @@ A travel website that allows users to explore destinations, view travel packages
 
 ### 📷 Screenshots 
 
-![image](https://github.com/user-attachments/assets/e2ea4d8d-ae46-493f-a287-9bd281630146)
-![image](https://github.com/user-attachments/assets/48863d82-7620-4039-847f-b35df1ff9a5b)
-![image](https://github.com/user-attachments/assets/6a1b329c-257b-4545-9a0f-f83f169aabf3)
 
 
